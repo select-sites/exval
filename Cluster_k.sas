@@ -14,7 +14,7 @@ Authors:		Azim Shivji, Daniel Litwok, and Robert B. Olsen
 
 References: 	Shivji, A., Litwok, D., & Olsen, Robert B. (2022). Cluster_k: SAS Macro for
 					Clustering Districts and Schools for Impact Studies in Education.
-					Documentation. Available at: <https://github.com/select-sites/exval>.
+					Documentation. Available at: <https://select-sites.github.io/exval>.
 
 				Litwok, D., Nichols, A., Shivji, A., & Olsen, Robert B. (2022). Selecting 
 					districts and schools for impact studies in education: A simulation 
@@ -26,7 +26,7 @@ References: 	Shivji, A., Litwok, D., & Olsen, Robert B. (2022). Cluster_k: SAS M
 					Evaluation Review, 37(2), 109-139.
 
 
-GitHub Repo:	<https://github.com/select-sites/exval>
+GitHub Repo:	<https://select-sites.github.io/exval>
 
 
 Support:		If you have questions or bugs to report, you may open an issue on the Github 
